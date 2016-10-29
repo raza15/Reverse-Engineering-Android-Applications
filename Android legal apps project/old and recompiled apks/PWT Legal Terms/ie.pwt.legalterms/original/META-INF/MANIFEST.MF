@@ -1,0 +1,66 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: assets/www/app/data.js
+SHA1-Digest: pKXvUvKh3ommcCGZHhIK904YEIA=
+
+Name: res/drawable-ldpi/phone_startup.png
+SHA1-Digest: 60RWBJ+GOY3lS8KhjknqAwHv8X4=
+
+Name: res/drawable-hdpi/phone_startup.png
+SHA1-Digest: 60RWBJ+GOY3lS8KhjknqAwHv8X4=
+
+Name: assets/www/phone_startup.png
+SHA1-Digest: 8IybMlV3w4uz5sHF48ajjl6Hf9s=
+
+Name: assets/www/lib/touch/resources/images/a-z.png
+SHA1-Digest: lLP1mg+9UrG/8Bf+VSO1cFP+a4Y=
+
+Name: assets/www/phonegap.0.9.6.js
+SHA1-Digest: 0bhwMZL5NpP6HroNtDXMwSb4Kb4=
+
+Name: assets/www/lib/touch/resources/css/sencha-touch.css
+SHA1-Digest: //w7PiIDtg8Nn/62mbuV1Anfup4=
+
+Name: assets/www/lib/touch/sencha-touch.js
+SHA1-Digest: iYq5X9ytoziic6GzV0YarHrQgaY=
+
+Name: resources.arsc
+SHA1-Digest: 7eexBQz0SiNVWxX+/7xS/ML7Rvs=
+
+Name: classes.dex
+SHA1-Digest: 8huMJ2JnsglhflA/YjIl6O7G7Nc=
+
+Name: res/drawable-mdpi/phone_startup.png
+SHA1-Digest: 60RWBJ+GOY3lS8KhjknqAwHv8X4=
+
+Name: assets/www/lib/touch/resources/css/more.css
+SHA1-Digest: JboVzzVSlw9pb5Y5pW7n8l5l6p8=
+
+Name: res/layout/main.xml
+SHA1-Digest: Qvtm49Dd2anJK4nlSVNSF3GphsQ=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: XoLQcnzqqq7gz/RVrxXrCAeoNEM=
+
+Name: AndroidManifest.xml
+SHA1-Digest: LeEF4qbGIoGEoyvKFv1RYqhnBvw=
+
+Name: assets/www/tablet_startup.png
+SHA1-Digest: VVRx8jNzH0UDmGoSfBBeD33CQIY=
+
+Name: assets/www/icon.png
+SHA1-Digest: hzbTGM6GlBv6s/f5NQx+0JGFGTg=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: XoLQcnzqqq7gz/RVrxXrCAeoNEM=
+
+Name: assets/www/app/newapp.js
+SHA1-Digest: LfqMTp9rxkncaJ1IYwCQyCEZR4k=
+
+Name: assets/www/index.html
+SHA1-Digest: +GMpwxvgPZaX8BKgPRjaG3YZ0Lk=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: XoLQcnzqqq7gz/RVrxXrCAeoNEM=
+

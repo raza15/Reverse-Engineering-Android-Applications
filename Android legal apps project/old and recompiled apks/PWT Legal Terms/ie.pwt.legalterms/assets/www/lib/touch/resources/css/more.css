@@ -1,0 +1,30 @@
+body{
+	background-color:#0a3767;
+}
+
+.details{
+	margin:0px 20px 0px 20px;
+	padding-top:10px;
+}
+
+.details strong{
+	font-size:24px;
+	font-weight:bold;
+}
+
+.aboutus {
+	font-size:14px;	
+	text-align:center;
+	padding:15px;	
+}
+
+.aboutus h2 {
+	padding:10px;
+	font-size:20px;
+	text-align:center;
+}
+
+.aboutus a {
+	font-size:20px;
+	text-align:center;
+}

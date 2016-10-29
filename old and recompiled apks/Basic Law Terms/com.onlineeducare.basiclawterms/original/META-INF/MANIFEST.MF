@@ -1,0 +1,75 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/drawable-xhdpi/ic_launcher.png
+SHA1-Digest: xf8jo4GwM8wJLGg7w12Wnvmk5Qo=
+
+Name: assets/www/images/ajax-loader.gif
+SHA1-Digest: r7Wo1RXseyxOXYv8y0kPtbYDEcM=
+
+Name: res/drawable-hdpi/ic_launcher.png
+SHA1-Digest: sv/PN3V3yvqvlyNAgFFEG1YBBo8=
+
+Name: assets/www/js/jquery.js
+SHA1-Digest: BRGr6YY8LqcITvp+JNHYbFs5dPE=
+
+Name: jsr305_annotations/Jsr305_annotations.gwt.xml
+SHA1-Digest: UBXHoAGmseBGDwjR6/MFHfcIK7g=
+
+Name: assets/www/js/jquery.mobile-1.3.2.js
+SHA1-Digest: 7lyLouQxm5YH33thMXQ/ndyxxZk=
+
+Name: assets/www/images/arlogo.png
+SHA1-Digest: tibKz5pRa/xP5JncA4pXjL6LPMw=
+
+Name: resources.arsc
+SHA1-Digest: EPu2uGNIDo57Br4mT+IyYzwPG/M=
+
+Name: classes.dex
+SHA1-Digest: LeK+bH7eAwpqxF96UOZj1nZnDcA=
+
+Name: res/drawable-xxhdpi/ic_launcher.png
+SHA1-Digest: C6kGZsQ5km0PuezsDmnZ8gCXl8Q=
+
+Name: assets/www/jquery.mobile-1.3.2.css
+SHA1-Digest: QkTajerperEpyOYbWaNZ7LiHVkE=
+
+Name: res/menu/main.xml
+SHA1-Digest: wXc4zBe0Q2LPi4bMr25yy5JJQig=
+
+Name: assets/www/jquery.dataTables.css
+SHA1-Digest: XUkV/DvTWZfGf2MNf580SpXrmzs=
+
+Name: assets/www/jquery.dataTables.js
+SHA1-Digest: AQ3qQJs/f1yb4epF+TofVtO9jrg=
+
+Name: assets/www/images/icons-18-black.png
+SHA1-Digest: fV43xwMC0a1FUHHrEQTXG/DBquU=
+
+Name: AndroidManifest.xml
+SHA1-Digest: AJOfzTtRqu7NkK5PRNg7p+01I4c=
+
+Name: res/drawable-mdpi/ic_launcher.png
+SHA1-Digest: JMiaISjm0S8ZwTakycuhq9vsjRw=
+
+Name: assets/www/style.css
+SHA1-Digest: jJLGzB5zR/BclGf5HtGJsfELWac=
+
+Name: assets/www/images/icons-18-white.png
+SHA1-Digest: FoGyzN43urjxWXVJWG9YEbNJ4Wg=
+
+Name: jsr305_annotations/v0_r47/V0_r47.gwt.xml
+SHA1-Digest: /f34xYwskAvrKqRB+jFPzJ8rPJg=
+
+Name: assets/www/images/icons-36-black.png
+SHA1-Digest: IzyOtnVBPDa1SVQVEqAjKDWlUXE=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: qVW+nHovqmEmKpssXKUBidrNDDA=
+
+Name: assets/www/images/icons-36-white.png
+SHA1-Digest: wMpruSGjsWnC8bZ3Bo4vu1ny7JU=
+
+Name: assets/www/index.html
+SHA1-Digest: 80npuhGDc6CLpqeeAePoQvhjMoE=
+

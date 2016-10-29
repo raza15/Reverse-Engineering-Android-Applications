@@ -1,0 +1,8 @@
+command prompt:
+apktool d "C:\Users\Nadeem\Music\aptoll\com.xuecs.endict.downloader.apk"
+(P.S. apk to sourcecode)
+
+apktool b com.xuecs.endict.downloader
+(P.S. sourcecode to apk. apk file found in com.xuecs.endict.downloader/dict)
+
+http://www.alltechstories.com/decompile-recompile-android-apk-file/
