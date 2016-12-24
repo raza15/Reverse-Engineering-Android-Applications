@@ -15,7 +15,7 @@ https://play.google.com/store/search?q=law%20terms&c=apps
 5)source code to apk:apktool b blah ==>generates new apk in blah/dist/blah.apk 
 
 6)Zipalign apk. cd to zipalign dir, copy apk.Type: zipalign -v 4 <new blah.apk> final-apk.apk
-==>genertes final-apk.apk
+==>generates final-apk.apk
 
 7)Sign the apk. cd to sign dir, copy apk. Type: java -jar signapk.jar certificate.pem key.pk8 your-app.apk your-app-signed.apk
 
