@@ -1,7 +1,7 @@
 # Reverse-Engineering-Android-Applications
 
 ```
-APK: decomple, change, recomple. Windows 7 
+APK: decompile, change, recompile. Windows 7 
 
 1)download apk: http://apps.evozi.com/apk-downloader/?id=com.onlineeducare.basiclawterms
 https://play.google.com/store/search?q=law%20terms&c=apps
